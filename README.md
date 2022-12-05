@@ -1,6 +1,6 @@
 # Hej, I'm Joel! 👋
 
-Grew up in [Malmö](https://goo.gl/maps/UpSZ2SxgTQsUREs67) 🇸🇪, living in [Berlin](https://goo.gl/maps/5D9D9JxRJZkMqBdL9) 🇩🇪, working for [Klarna](https://klarna.github.io) <img src="https://klarna.github.io/favicon-32x32.png" alt="" width="16" width="16" />. 
+Grew up in [Malmö](https://goo.gl/maps/UpSZ2SxgTQsUREs67) 🇸🇪, living in [Berlin](https://goo.gl/maps/5D9D9JxRJZkMqBdL9) 🇩🇪. 
 
 [My repos](https://oblador.github.io) demand more time than I have, so I have to be ruthless in my prioritization. Send me a DM on [Twitter](https://twitter.com/trastknast) if you want to help out.
 
